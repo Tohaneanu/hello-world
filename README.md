@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Hello! this is my first edit of a file on this platform.
